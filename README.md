@@ -1,11 +1,11 @@
-
+![image](https://github.com/user-attachments/assets/313b9f60-6d5f-4d0c-ab1c-558d44b83aa6)
 # Text Editor Application
 
 This is a simple text editor application built using Python and the Tkinter library. The application allows users to create, open, edit, and save text files. It also provides basic text formatting options such as changing the font, font size, and text color.
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/basic%20man/Downloads/Screenshot%202025-03-19%20220552.png)
+![App Screen Shot](file:///C:/Users/basic%20man/Downloads/Screenshot%202025-03-19%20220552.png)
 
 
 ## Features
