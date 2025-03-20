@@ -59,4 +59,5 @@ If you find this project useful and would like to support its development, you c
 
 ## Author
 
+A 16 years old **programmer**
 **Mohamed Moukbil**
