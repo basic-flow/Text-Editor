@@ -74,7 +74,15 @@ file = None
 window_height = 500
 window_width=500
 
-window.iconphoto(True, PhotoImage(file="C:\\Users\\basic man\\PycharmProjects\\PythonProject1\\images\\editor.png"))
+try:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    icon_path = os.path.join(script_dir, "editor.png")
+    if os.path.exists(icon_path):
+        window.iconphoto(True, PhotoImage(file=icon_path))
+    else:
+        print("Icon file not found, using default icon")
+except Exception as e:
+    print(f"Could not load window icon: {e}")
 window.geometry(f"{window_width}x{window_height}")
 
 font_name = StringVar(window)
