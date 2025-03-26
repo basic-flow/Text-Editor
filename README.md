@@ -25,7 +25,7 @@ This is a simple text editor application built using Python and the Tkinter libr
 **Clone the Repository**:
 
 ```bash
-git clone https://github.com/your-username/text-editor.git
+git clone https://github.com/basic-flow/text-editor.git
 cd text-editor
 ```
 
