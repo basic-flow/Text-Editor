@@ -8,42 +8,7 @@ This is a simple text editor application built using Python and the Tkinter libr
 ![App Screen Shot](https://github.com/user-attachments/assets/313b9f60-6d5f-4d0c-ab1c-558d44b83aa6)
 
 
-## Features
 
-- **New File**: Create a new text file.
-- **Open File**: Open an existing text file.
-- **Save File**: Save the current text file.
-- **Cut, Copy, Paste**: Basic text editing operations.
-- **Change Font**: Choose from a variety of fonts.
-- **Change Font Size**: Adjust the font size.
-- **Change Text Color**: Pick a color for the text.
-- **About**: Information about the program.
-
-
-## Installation
-
-**Clone the Repository**:
-
-```bash
-git clone https://github.com/basic-flow/text-editor.git
-cd text-editor
-```
-
-**Run the Application**:
-
-**From Source**:
-Ensure you have Python installed, then run:
-
-```bash
-python text_editor.py
-```
-**Using the Executable**:
-Simply double-click the executable file (text_editor.exe) in the dist directory to run the application.
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Support
 
